@@ -18,4 +18,8 @@ Upstream so far: Kannada conjunct and arkavattu checks in [shaperglot](https://g
 - **Read Kannada well?** Help check converted text against the original. This is the work that turns our results into verified ones.
 - **Design type?** Several open Kannada fonts are missing letters and heavier weights.
 
-Started by [Prasad Subrahmanya](https://prasad.tech).
+## Who we are
+
+Open Kannada was founded by [Prasad Subrahmanya](https://prasad.tech) and [Neha Prasad](https://neha-prasad.com/), and is supported by [DataRavel Inc. (dba Luminik)](https://www.luminik.io).
+
+Dedicated to Subramanya and Veena.
