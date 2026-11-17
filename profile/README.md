@@ -22,4 +22,4 @@ Upstream so far: Kannada conjunct and arkavattu checks in [shaperglot](https://g
 
 Open Kannada was founded by [Prasad Subrahmanya](https://prasad.tech) and [Neha Prasad](https://neha-prasad.com/), and is supported by [DataRavel Inc. (dba Luminik)](https://www.luminik.io).
 
-Dedicated to Subramanya and Veena.
+Dedicated to Veena and Subramanya.
