@@ -6,7 +6,7 @@ Years of Kannada documents were typed in old fonts that computers can't search o
 
 ## Projects
 
-- **[kannadi](https://github.com/prasadus92/kannadi)**: convert documents typed in the old Nudi, Baraha, Nudi B-Akshara, Kan-Eng, Akruti and Shree-Lipi fonts to Unicode, and back. A Rust library, a command-line tool for whole folders of TXT, HTML, DOCX and PDF files, and an editor that runs in your browser.
+- **[kannadi](https://github.com/openkannada/kannadi)**: convert documents typed in the old Nudi, Baraha, Nudi B-Akshara, Kan-Eng, Akruti and Shree-Lipi fonts to Unicode, and back. A Rust library, a command-line tool for whole folders of TXT, HTML, DOCX and PDF files, and an editor that runs in your browser.
 
 On the way: fixed and extended Kannada fonts, a spell checker that understands Kannada word endings, OCR for old printed books, an English to Kannada dictionary, and a test suite for how well AI models handle Kannada.
 
