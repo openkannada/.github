@@ -10,7 +10,10 @@ Years of Kannada documents were typed in old fonts that computers can't search o
 
 - **[kannadi](https://github.com/openkannada/kannadi)**: convert documents typed in the old Nudi, Baraha, Nudi B-Akshara, Kan-Eng, Akruti and Shree-Lipi fonts to Unicode, and back. A Rust library, a command-line tool for whole folders of TXT, HTML, DOCX and PDF files, and an editor that runs in your browser at [openkannada.org](https://openkannada.org).
 
-On the way, and opening up one by one: fixed and extended Kannada fonts (Neha Sans, Neha Serif and Gari), a spell checker that understands Kannada word endings, OCR for old printed books, an open specification for the old font encodings, an English to Kannada dictionary, and a test suite for how well AI models handle Kannada.
+- **[Neha Sans and Neha Serif](https://github.com/openkannada/noto-kannada-fork)**: our maintained builds of Google's Noto Sans and Noto Serif Kannada, with shaping fixes and every weight. [Download v1.000](https://github.com/openkannada/noto-kannada-fork/releases/tag/v1.000).
+- **[Gari](https://github.com/openkannada/gari-font)**: a handwriting-style Kannada font built on Aravinda VK's Navilu, with modern shaping and new letters. [Download v1.300](https://github.com/openkannada/gari-font/releases/tag/v1.300).
+
+On the way, and opening up one by one: a spell checker that understands Kannada word endings, OCR for old printed books, an open specification for the old font encodings, an English to Kannada dictionary, and a test suite for how well AI models handle Kannada.
 
 Upstream so far: Kannada conjunct and arkavattu checks in [shaperglot](https://github.com/googlefonts/shaperglot/pull/192), the tool Google Fonts uses to test language support.
 
