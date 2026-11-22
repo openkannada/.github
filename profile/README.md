@@ -35,6 +35,6 @@ Upstream so far: Kannada conjunct and arkavattu checks in [shaperglot](https://g
 
 Open Kannada was started by [Prasad Subrahmanya](https://prasad.tech) and [Neha Prasad](https://neha-prasad.com/), its founding members, and is supported by [DataRavel Inc. (dba Luminik)](https://www.luminik.io).
 
-Copyright stays with the authors, and the names belong to the project, not to DataRavel Inc.
+Contributors keep the copyright to their work and license it under the project's licenses. The Open Kannada and kannadi names and logos are covered by [TRADEMARKS.md](https://github.com/openkannada/.github/blob/main/TRADEMARKS.md).
 
 Dedicated to Veena and Subramanya.
