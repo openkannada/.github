@@ -11,7 +11,7 @@ Years of Kannada documents were typed in old fonts that computers can't search o
 | Tool | What it does | Result |
 |---|---|---|
 | [kannadi](https://github.com/openkannada/kannadi) | Converts documents in the old Nudi, Baraha, Nudi B-Akshara, Kan-Eng, Akruti and Shree-Lipi fonts to Unicode and back. Rust library, command-line tool for whole folders (TXT, HTML, DOCX, DOC, RTF, PDF) and the [editor](https://openkannada.org/editor/) | 96.9% of 2,210 Nudi and Baraha lines from Karnataka government PDFs convert to the text the page shows |
-| [Kannada typing](https://openkannada.org/kannada-typing/) | Type Kannada with English letters; words turn into Kannada as you type. Part of kannadi | 89.21% top-1 on the Dakshina Kannada test set |
+| [Kannada typing](https://openkannada.org/kannada-typing/) | Type Kannada with English letters; words turn into Kannada as you type. Part of kannadi | 89.19% top-1 on the Dakshina Kannada test set |
 | [Neha Sans and Neha Serif](https://github.com/openkannada/noto-kannada-fork) | Kannada fonts built from Google's Noto Sans and Noto Serif Kannada, with shaping fixes and every weight | [Download v1.000](https://github.com/openkannada/noto-kannada-fork/releases/tag/v1.000) |
 | [Gari](https://github.com/openkannada/gari-font) | A handwriting-style Kannada font built on Aravinda VK's Navilu, with modern shaping and new letters | [Download v1.300](https://github.com/openkannada/gari-font/releases/tag/v1.300) |
 | [font-health-action](https://github.com/openkannada/font-health-action) | Kannada shaping tests for any font repository, as a GitHub Action | |
